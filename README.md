@@ -22,5 +22,5 @@
 
 ## Usage
 1. Navigate to the project directory.
-2. Run the server: npm run dev
-3. Access the website through your browser at http://localhost:5173
+2. Run the server: ```bash npm run dev
+3. Access the website through your browser at ```bash http://localhost:5173
