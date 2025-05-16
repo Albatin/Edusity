@@ -18,7 +18,7 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/yourusername/edusity.git](https://github.com/Albatin/Edusity.git)
+   git clone https://github.com/yourusername/edusity.git
 
 ## Usage
 1. Navigate to the project directory.
