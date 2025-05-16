@@ -31,4 +31,4 @@
 2. Run the server:
 3. ```bash
    npm run dev
-4. Access the website through your browser at http://localhost:5173
+4. Access the website through your browser at `http://localhost:5173`
